@@ -2,7 +2,7 @@ CP2 — DevOps: Azure VM + Docker + Spring Boot + MySQL
 
 👤 Aluno
 Nome: Lucas Giannini
-RM: (coloque seu RM aqui)
+RM: (RM564508)
 
 🌐 Endpoint para Correção
 Acesse no navegador: http://102.37.218.127:8080/usuarios
